@@ -30,6 +30,7 @@ define("sal", "<br>");
 		echo $cantidad2,"Producto(s):",$descripcion2,$multiplicacion2.sal;
 		echo "Subtotal :";
 		echo $suma,"<br>";
+		echo "iva:",$iva.sal;
 		echo "TOTAL A PAGAR ","<br>";
                 echo $total ;
             ?>
